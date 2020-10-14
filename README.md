@@ -18,3 +18,18 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 - :world_map: How to reach me: **anjanapma@gmail.com**
 - :sweat_smile: Fun fact: :headphones:Listen to music,:paintbrush: Drawing Picture,:pencil2: Pencil Art,:joystick: Play Game
 
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://dev.to/thamiduanjana" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thamiduanjana" height="30"
+        width="40" /></a>
+<a href="https://www.linkedin.com/in/thamidu-anjana-b6a748128/" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thamidu-anjana-b6a748128"
+        height="30" width="40" /></a>
+<a href="https://www.facebook.com/thamidu.anjana/" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thamidu.anjana" height="30"
+        width="40" /></a>
+<a href="https://www.instagram.com/thamidua/" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thamidua" height="30"
+        width="40" /></a>
+</p>
