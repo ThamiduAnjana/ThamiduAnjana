@@ -55,11 +55,7 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
    <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
             width="40" height="40" /> 
-   </a> 
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> 
-   </a> 
+   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> 
@@ -72,10 +68,6 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
             src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
             width="40" height="40" /> 
    </a> 
-   <a href="https://www.photoshop.com/en" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"
-            width="40" height="40" /> 
-   </a>
    <a href="https://www.github.com/en" target="_blank"> <img
             src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github"
             width="40" height="40" /> 
@@ -83,6 +75,30 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
    <a href="https://www.github.com/en" target="_blank"> <img
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"
             width="40" height="40" /> 
+   </a>
+   <a href="https://www.github.com/en" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" />
+   </a>
+   <a href="https://www.github.com/en" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/adobe-dreamweaver.png" alt="dreamweaver"/>
+   </a>
+   <a href="https://www.github.com/en" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="premiere-pro"/>
+   </a>
+   <a href="https://www.github.com/en" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="after-effects"/>
+   </a>
+   <a href="https://www.github.com/en" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="photoshop"/>
+   </a>
+   <a href="https://www.github.com/en" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="lightroom"/>
+   </a>
+   <a href="https://www.github.com/en" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="adobe-xd"/>
+   </a>
+   <a href="https://www.github.com/en" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="illustrator"/>
    </a>
 </p>
 
