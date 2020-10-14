@@ -61,7 +61,7 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
             alt="javascript" width="40" height="40" /> 
    </a>
    <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <<img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="windows-10" />
+     <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="windows-10" />
    </a>
    <a href="https://www.linux.org/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40"
