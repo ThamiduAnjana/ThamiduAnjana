@@ -8,7 +8,10 @@
 Vocational Training Authority - Sri Lanka):man_technologist: Beside's
     programming, I enjoy my friends and communities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThamiduAnjana&color=brightgreen" alt="ThamiduAnjana" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=ThamiduAnjana&color=brightgreen" alt="ThamiduAnjana" />
+</p>
+
 
 - :man_student: I’m currently student as National School Of Business Management
 - :man_teacher: I’m currently learning Android
