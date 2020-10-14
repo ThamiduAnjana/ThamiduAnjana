@@ -13,7 +13,7 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 </p>
 
 
-- :man_student: I’m currently student as National School Of Business Management
+- :man_student: I’m currently student as **National School Of Business Management**
 - :man_teacher: I’m currently learning Android
 - :dancing_men: I’m looking to collaborate on open source/commercial projects
 - :thinking: I’m looking for help with Javatpoint,W3schools
