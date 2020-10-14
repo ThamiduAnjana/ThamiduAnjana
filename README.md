@@ -1,8 +1,7 @@
 
 <p align="center">
- <img width="100px" src="https://user-images.githubusercontent.com/46102435/96030738-06558900-0e7a-11eb-97db-0a0a5fff6b87.png" align="center" alt="GitHub_Logo" />
+ <img width="300px" src="https://user-images.githubusercontent.com/46102435/96034894-dd37f700-0e7f-11eb-9449-994d729ce7bf.jpeg" align="center" alt="octocat" />
  <img width="100px" src="https://user-images.githubusercontent.com/46102435/96030814-1ff6d080-0e7a-11eb-88f1-560941e063fe.png" align="center" alt="octocat" />
- <h2 align="center">GitHub Readme Stats</h2>
  <h1 align="center">Hi :wave:, I'm Thamidu Anjana Bandara</h1>
 </p>
 <h3 align="center">:astronaut: from Srilanka, currently,:man_student: I'm a Undergraduate in NSBM ( National School of Business Management) & Undergraduate in VTA (
@@ -72,11 +71,11 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
             src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"
             width="40" height="40" /> 
    </a>
-   <a href="https://www.photoshop.com/en" target="_blank"> <img
+   <a href="https://www.github.com/en" target="_blank"> <img
             src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github"
             width="40" height="40" /> 
    </a>
-   <a href="https://www.photoshop.com/en" target="_blank"> <img
+   <a href="https://www.github.com/en" target="_blank"> <img
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"
             width="40" height="40" /> 
    </a>
