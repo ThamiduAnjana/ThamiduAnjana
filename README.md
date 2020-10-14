@@ -1,6 +1,7 @@
 
 <p align="center">
- <img width="100px" src="" align="center" alt="GitHub Readme Status" />
+ <img width="100px" src="https://user-images.githubusercontent.com/46102435/96030738-06558900-0e7a-11eb-97db-0a0a5fff6b87.png" align="center" alt="GitHub_Logo" />
+ <img width="100px" src="https://user-images.githubusercontent.com/46102435/96030814-1ff6d080-0e7a-11eb-88f1-560941e063fe.png" align="center" alt="octocat" />
  <h2 align="center">GitHub Readme Stats</h2>
  <h1 align="center">Hi :wave:, I'm Thamidu Anjana Bandara</h1>
 </p>
