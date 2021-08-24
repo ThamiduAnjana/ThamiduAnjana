@@ -41,7 +41,8 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+ 
 ![Java](https://img.shields.io/badge/-Java-E74C3C?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F1C40F?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-28B463?style=flat-square&logo=Node.js)
