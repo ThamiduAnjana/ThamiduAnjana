@@ -13,8 +13,8 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 </p>
 
 
-- :man_student: I’m currently student as **National School Of Business Management**
-- :man_teacher: I’m currently learning Android
+- :man_student: I’m currently undergraduate as **National School Of Business Management**
+- :man_teacher: I’m currently learning Android and ReactJs
 - :dancing_men: I’m looking to collaborate on open source/commercial projects
 - :thinking: I’m looking for help with Javatpoint,W3schools
 - :gear: I use daily: `.java`,`.html`,`.php`,`.css`,`.js`
