@@ -21,7 +21,7 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 - :speech_balloon: Ask me about **Web Development** , **Software Development**
 - :world_map: How to reach me: **anjanapma@gmail.com**
 - :sweat_smile: Fun fact: :headphones:Listen to music,:paintbrush: Drawing Picture,:pencil2: Pencil Art,:joystick: Play Game
-
+---
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/thamiduanjana" target="blank"><img align="center"
@@ -39,7 +39,7 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 </p>
 <img align="center" src="https://img.shields.io/badge/-anjanapma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anjanapma@gmail.com" alt="Gmail"/>
 
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
@@ -70,8 +70,9 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
  
 </p>
 
-<p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiduAnjana&layout=compact&theme=dracula"/>
- <img src="https://github-readme-stats.vercel.app/api?username=ThamiduAnjana&show_icons=true&theme=radical"/>
+---
 
-</p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiduAnjana&layout=compact&langs_count=8&theme=dark)
+ 
+ ![Thamidu's github stats](https://github-readme-stats.vercel.app/api?username=ThamiduAnjana&show_icons=true&layout=compact&langs_count=8&theme=radical)
+ 
