@@ -41,34 +41,42 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+   <a href="https://reactjs.org/" target="_blank"> <img
+            src="https://user-images.githubusercontent.com/46102435/130562628-c6e55ea7-27ab-41b4-9755-4acb206fea16.png" alt="bootstrap"
+            width="40" height="40" /> 
+   </a>
    <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
+            src="https://user-images.githubusercontent.com/46102435/130561886-fe777cde-b9f1-4c0f-a5e8-0e87d0cad5ac.png" alt="bootstrap"
             width="40" height="40" /> 
    </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
+            src="https://user-images.githubusercontent.com/46102435/130562116-92311571-6df1-44ac-a25e-15dd7f60eff6.png" alt="css3"
             width="40" height="40" /> 
    </a>  
    <a href="https://flutter.dev" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
    </a> 
    <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
+            src="https://user-images.githubusercontent.com/46102435/130562180-1b9b9e08-89bf-417d-81cd-0d65bbca60f9.png" alt="html5"
             width="40" height="40" /> 
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+            src="https://user-images.githubusercontent.com/46102435/130562308-9a8020bb-c62d-4315-abea-a31fd576105f.png"
             alt="javascript" width="40" height="40" /> 
    </a>
    <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
      <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="windows-10" />
    </a>
    <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40"
+            src="https://user-images.githubusercontent.com/46102435/130562361-cea4906d-9dc7-4852-919f-61828f0363cf.png" alt="linux" width="40"
             height="40" /> 
    </a>
+   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img
+            src="https://user-images.githubusercontent.com/46102435/130562514-9a38d119-dee1-4e6e-87cb-9de6924198f8.png" alt="mysql"
+            width="40" height="40" /> 
+   </a> 
    <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
+            src="https://user-images.githubusercontent.com/46102435/130562424-c073c05f-a693-4dab-9009-8225c51dc147.png" alt="mysql"
             width="40" height="40" /> 
    </a> 
    <a href="https://www.github.com/ThamiduAnjana" target="_blank"> <img
