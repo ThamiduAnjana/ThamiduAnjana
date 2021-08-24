@@ -1,7 +1,7 @@
 
 <p align="center">
- <img width="200px" src="https://user-images.githubusercontent.com/46102435/96034894-dd37f700-0e7f-11eb-9449-994d729ce7bf.jpeg" align="center" alt="octocat" />
- <img width="50px" src="https://user-images.githubusercontent.com/46102435/96030814-1ff6d080-0e7a-11eb-88f1-560941e063fe.png" align="center" alt="octocat" />
+ <img width="100px" src="https://user-images.githubusercontent.com/46102435/96034894-dd37f700-0e7f-11eb-9449-994d729ce7bf.jpeg" align="center" alt="octocat" />
+ <img width="25px" src="https://user-images.githubusercontent.com/46102435/96030814-1ff6d080-0e7a-11eb-88f1-560941e063fe.png" align="center" alt="octocat" />
  <h1 align="center">Hi :wave:, I'm Thamidu Anjana Bandara</h1>
 </p>
 <h3 align="center">:astronaut: from Srilanka, currently,:man_student: I'm a Undergraduate in NSBM ( National School of Business Management) & Undergraduate in VTA (
