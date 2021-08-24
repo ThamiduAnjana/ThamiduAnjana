@@ -117,6 +117,5 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiduAnjana&layout=compact&theme=dracula"/>
  <img src="https://github-readme-stats.vercel.app/api?username=ThamiduAnjana&show_icons=true&theme=radical"/>
- [![ThamiduAnjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiduAnjana)](https://github.com/ThamiduAnjana/github-readme-stats)
 
 </p>
