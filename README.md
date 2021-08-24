@@ -124,7 +124,6 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiduAnjana&layout=compact&theme=dracula"/>
- ![](https://github.com/ThamiduAnjana/github-stats/blob/master/generated/languages.svg)
  <img src="https://github-readme-stats.vercel.app/api?username=ThamiduAnjana&show_icons=true&theme=radical"/>
 
 </p>
