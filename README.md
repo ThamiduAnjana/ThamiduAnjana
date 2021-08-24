@@ -37,89 +37,36 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thamidua" height="30"
         width="40" /></a>
 </p>
+<img align="center" src="https://img.shields.io/badge/-anjanapma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anjanapma@gmail.com" alt="Gmail"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-   <a href="https://reactjs.org/" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/46102435/130562628-c6e55ea7-27ab-41b4-9755-4acb206fea16.png" alt="bootstrap"
-            width="40" height="40" /> 
-   </a>
-   <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/46102435/130561886-fe777cde-b9f1-4c0f-a5e8-0e87d0cad5ac.png" alt="bootstrap"
-            width="40" height="40" /> 
-   </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/46102435/130562116-92311571-6df1-44ac-a25e-15dd7f60eff6.png" alt="css3"
-            width="40" height="40" /> 
-   </a>  
-   <a href="https://flutter.dev" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-   </a> 
-   <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/46102435/130562180-1b9b9e08-89bf-417d-81cd-0d65bbca60f9.png" alt="html5"
-            width="40" height="40" /> 
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/46102435/130562308-9a8020bb-c62d-4315-abea-a31fd576105f.png"
-            alt="javascript" width="40" height="40" /> 
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="windows-10" />
-   </a>
-   <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/46102435/130562361-cea4906d-9dc7-4852-919f-61828f0363cf.png" alt="linux" width="40"
-            height="40" /> 
-   </a>
-   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/46102435/130562514-9a38d119-dee1-4e6e-87cb-9de6924198f8.png" alt="mysql"
-            width="40" height="40" /> 
-   </a> 
-   <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/46102435/130562424-c073c05f-a693-4dab-9009-8225c51dc147.png" alt="mysql"
-            width="40" height="40" /> 
-   </a> 
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> <img
-            src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github"
-            width="40" height="40" /> 
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> <img
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"
-            width="40" height="40" /> 
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android-os" />
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visual-studio" />
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visual-studio-code" />
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" />
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/adobe-dreamweaver.png" alt="dreamweaver"/>
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="premiere-pro"/>
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="after-effects"/>
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="photoshop"/>
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="lightroom"/>
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="adobe-xd"/>
-   </a>
-   <a href="https://www.github.com/ThamiduAnjana" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="illustrator"/>
-   </a>
+![Java](https://img.shields.io/badge/-Java-E74C3C?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F1C40F?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-28B463?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-2E86C1?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-D35400?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-CB4335?style=flat-square&logo=github)
+![Android](https://img.shields.io/badge/-Android-28B463?style=flat-square&logo=Android)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=Mysql)
+![MSsql](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoftsqlserver)
+![Linux](https://img.shields.io/badge/-Linux-F1C40F?style=flat-square&logo=Linux)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-3498DB?style=flat-square&logo=visualstudiocode)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-8E44AD?style=flat-square&logo=visualstudio)
+![DreamWeaver](https://img.shields.io/badge/-AdobeDreamWeaver-8E44AD?style=flat-square&logo=adobedreamweaver)
+![PremierePro](https://img.shields.io/badge/-AdobePremierePro-3498DB?style=flat-square&logo=adobepremierepro)
+![AfterEffects](https://img.shields.io/badge/-AdobeAfterEffects-8E44AD?style=flat-square&logo=adobeaftereffects)
+![Photoshop](https://img.shields.io/badge/-AdobePhotoshop-3498DB?style=flat-square&logo=adobephotoshop)
+![Lightroom](https://img.shields.io/badge/-AdobeLightroom-3498DB?style=flat-square&logo=adobelightroom)
+![Adobexd](https://img.shields.io/badge/-Adobexd-8E44AD?style=flat-square&logo=adobexd)
+![Illustrator](https://img.shields.io/badge/-AdobeIllustrator-D4AC0D?style=flat-square&logo=adobeillustrator)
+ 
 </p>
 
 <p>
