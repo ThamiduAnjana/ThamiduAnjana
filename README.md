@@ -2,7 +2,7 @@
 <p align="center"> 
  <h1 align="center"><img width="200px" src="https://user-images.githubusercontent.com/46102435/96034894-dd37f700-0e7f-11eb-9449-994d729ce7bf.jpeg" align="center" alt="octocat" /> Hi :wave:, I'm Thamidu Anjana Bandara</h1>
 </p>
-<h3 align="center">:astronaut: from Srilanka, currently,:man_student: I'm a Undergraduate in NSBM ( National School of Business Management) & Undergraduate in VTA (
+<h3 align="center">:astronaut: from Srilanka, currently,:man_student: I'm a Graduated in NSBM ( National School of Business Management) & Undergraduate in VTA (
 Vocational Training Authority - Sri Lanka):man_technologist: Beside's
     programming, I enjoy my friends and communities.</h3>
 
