@@ -70,6 +70,9 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiduAnjana&layout=compact&langs_count=8&theme=dark)
  
  ![Thamidu's github stats](https://github-readme-stats.vercel.app/api?username=ThamiduAnjana&show_icons=true&layout=compact&langs_count=8&theme=radical)
