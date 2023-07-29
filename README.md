@@ -70,6 +70,8 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 
 ---
 
+<h3 align="left">WakaTime Status:</h3>
+
 <!--START_SECTION:waka-->
 
 ```txt
