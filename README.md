@@ -75,11 +75,11 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       5 hrs 14 mins   ███████████░░░░░░░░░░░░░░   44.01 %
-PHP              4 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.76 %
-HTML             1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
-JSON             47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PHP              4 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.79 %
+TypeScript       3 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.92 %
+HTML             1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+JSON             34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
