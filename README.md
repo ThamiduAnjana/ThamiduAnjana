@@ -10,7 +10,7 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
  <img src="https://komarev.com/ghpvc/?username=ThamiduAnjana&color=brightgreen" alt="ThamiduAnjana" />
 </p>
 <p align="left">
- [![wakatime](https://wakatime.com/badge/user/fe9233d8-6a01-4a30-8541-416575267944.svg)](https://wakatime.com/@fe9233d8-6a01-4a30-8541-416575267944)
+ <a href="https://wakatime.com/@fe9233d8-6a01-4a30-8541-416575267944"><img src="https://wakatime.com/badge/user/fe9233d8-6a01-4a30-8541-416575267944.svg" alt="Total time coded since Jun 28 2023" /></a>
 </p>
 
 
