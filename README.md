@@ -75,19 +75,7 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 
 <h3 align="left">WakaTime Status:</h3>
 
-<figure><embed src="https://wakatime.com/share/@ThamiduAnjana/9e09fc03-4d3a-4b1e-b0a7-89c851ff1cbe.svg"></embed></figure>
-
-<!--START_SECTION:waka-->
-
-```txt
-HTML             10 hrs 7 mins   █████████▒░░░░░░░░░░░░░░░   37.78 %
-TypeScript       8 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   32.12 %
-PHP              7 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   28.50 %
-CSS              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-SQL              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-```
-
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@ThamiduAnjana/22fae456-8a32-4a08-a18a-c465f11b254b.svg"></embed></figure>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiduAnjana&layout=compact&langs_count=8&theme=dark)
  
