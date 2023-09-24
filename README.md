@@ -9,6 +9,9 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=ThamiduAnjana&color=brightgreen" alt="ThamiduAnjana" />
 </p>
+<p align="left">
+ [![wakatime](https://wakatime.com/badge/user/fe9233d8-6a01-4a30-8541-416575267944.svg)](https://wakatime.com/@fe9233d8-6a01-4a30-8541-416575267944)
+</p>
 
 
 - :man_student: I’m currently undergraduate as **National School Of Business Management**
