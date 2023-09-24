@@ -73,8 +73,6 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 
 ---
 
-<h3 align="left">WakaTime Status:</h3>
-
 <figure><embed src="https://wakatime.com/share/@ThamiduAnjana/22fae456-8a32-4a08-a18a-c465f11b254b.svg"></embed></figure>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiduAnjana&layout=compact&langs_count=8&theme=dark)
