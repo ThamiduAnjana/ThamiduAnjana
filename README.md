@@ -15,7 +15,7 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 
 
 - :man_student: I’m currently graduated as **National School Of Business Management**
-- :man_teacher: I’m currently learning Android and ReactJs
+- :man_teacher: I’m currently learning Angular and Laravel PHP
 - :dancing_men: I’m looking to collaborate on open source/commercial projects
 - :thinking: I’m looking for help with Javatpoint,W3schools
 - :gear: I use daily: `.java`,`.html`,`.php`,`.css`,`.js`
