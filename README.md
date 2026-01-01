@@ -1,30 +1,26 @@
+<h1 align="center">Hi there 👋, I'm Thamidu Anjana Bandara</h1>
+<h3 align="center">:astronaut: From Sri Lanka | :man_student: Graduate of NSBM & VTA | :man_technologist: Web & Software Developer</h3>
 
-<p align="center"> 
- <h1 align="center"><img width="200px" src="https://user-images.githubusercontent.com/46102435/96034894-dd37f700-0e7f-11eb-9449-994d729ce7bf.jpeg" align="center" alt="octocat" /> Hi :wave:, I'm Thamidu Anjana Bandara</h1>
-</p>
-<h3 align="center">:astronaut: from Srilanka, currently,:man_student: I'm a Graduated in NSBM ( National School of Business Management) & Graduated in VTA (
-Vocational Training Authority - Sri Lanka):man_technologist: Beside's
-    programming, I enjoy my friends and communities.</h3>
-
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=ThamiduAnjana&color=brightgreen" alt="ThamiduAnjana" />
-</p>
-<p align="left">
- <a href="https://wakatime.com/@fe9233d8-6a01-4a30-8541-416575267944"><img src="https://wakatime.com/badge/user/fe9233d8-6a01-4a30-8541-416575267944.svg" alt="Total time coded since Jun 28 2023" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThamiduAnjana&color=brightgreen" alt="Profile Views" />
 </p>
 
-
-- :man_student: I’m currently graduated as **National School Of Business Management**
-- :man_teacher: I’m currently learning Angular and Laravel PHP
-- :dancing_men: I’m looking to collaborate on open source/commercial projects
-- :thinking: I’m looking for help with Javatpoint,W3schools
-- :gear: I use daily: `.java`,`.html`,`.php`,`.css`,`.js`
-- :speech_balloon: Ask me about **Web Development** , **Software Development**
-- :world_map: How to reach me: **anjanapma@gmail.com**
-- :sweat_smile: Fun fact: :headphones:Listen to music,:paintbrush: Drawing Picture,:pencil2: Pencil Art,:joystick: Play Game
 ---
+
+## 👨‍🎓 About Me
+- :man_student: Graduate of **National School of Business Management**  
+- :man_teacher: Learning **Angular** and **Laravel PHP**  
+- :dancing_men: Open to collaboration on open-source and commercial projects  
+- :thinking: Seeking guidance on **Javatpoint** and **W3Schools**  
+- :gear: Daily use: `.java`, `.html`, `.php`, `.css`, `.js`  
+- :speech_balloon: Ask me about **Web Development** & **Software Development**  
+- :world_map: Reach me at: **[anjanapma@gmail.com](mailto:anjanapma@gmail.com)**  
+- :sweat_smile: Fun fact: :headphones: Music, :paintbrush: Drawing, :pencil2: Pencil Art, :joystick: Gaming
+
+---
+
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with Me </h3>
 <a href="https://dev.to/thamiduanjana" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thamiduanjana" height="30"
         width="40" /></a>
@@ -73,9 +69,6 @@ Vocational Training Authority - Sri Lanka):man_technologist: Beside's
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@ThamiduAnjana/22fae456-8a32-4a08-a18a-c465f11b254b.svg"></embed></figure>
+## 🚀 Let's Connect!
+Feel free to reach out to me via email or connect with me on social platforms. I’m open to collaborations and discussions about Web & Software Development.
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiduAnjana&layout=compact&langs_count=8&theme=dark)
- 
- ![Thamidu's github stats](https://github-readme-stats.vercel.app/api?username=ThamiduAnjana&show_icons=true&layout=compact&langs_count=8&theme=radical)
- 
